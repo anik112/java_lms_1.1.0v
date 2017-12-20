@@ -1,0 +1,23 @@
+
+|| Library menagement syastem ||
+
+
+:: Database Name: lms;
+
+SQL syntex:
+
+	CREATE DATABASE IF NOT EXISTS lms;
+
+
+
+
+
+
+	::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+	::							  ::
+	::	  Project name: library menagement system	  ::
+	::  							  ::
+	::							  ::
+	:: Institute: institute of computer sience and technology ::
+	::							  ::
+	::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
